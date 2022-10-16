@@ -1,14 +1,14 @@
 {
-    "name": "fr-blog",
-    "title": "FR Blog",
-    "author": "fr <flankeraptor@mail.com>",
+    "name": "0xOxer-blog",
+    "title": "0xOxer Blog",
+    "author": "0xOxer <xxx@xxx.xxx>",
     "version": "1.0.0",
-    "homepage": "http://flankeraptor.github.io",
+    "homepage": "https://0xOxer.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/flankeraptor/flankeraptor.github.io"
+        "url": "https://github.com/0xOxer/0xOxer.github.io"
     },
-    "bugs": "https://github.com/flankeraptor/flankeraptor.github.io/issues",
+    "bugs": "https://github.com/0xOxer/0xOxer.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
